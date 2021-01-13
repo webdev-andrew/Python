@@ -8,3 +8,6 @@ print(difference)
 
 product = a * 7
 print(product)
+
+division = a / a
+print(division)
