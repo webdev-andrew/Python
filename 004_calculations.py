@@ -11,3 +11,6 @@ print(product)
 
 division = a / a
 print(division)
+
+modulo = a % 2
+print(modulo)
