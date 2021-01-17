@@ -7,3 +7,4 @@ lucky_number = 21
 golden_number = 1.618
 
 print(lucky_number)
+print(golden_number)
